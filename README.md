@@ -4,7 +4,7 @@ LunarLander-v3 from OpenAI gymnasium: The goal is to train the agent to control 
 
 ## demo
 
-[![Video Label](MP4 文件链接)](https://github.com/user-attachments/assets/1f3053da-b34b-4871-b500-4319a6afd7f2)
+[![lunar_lander_recording](MP4 文件链接)](https://github.com/user-attachments/assets/1f3053da-b34b-4871-b500-4319a6afd7f2)
 
 ## referrence
 
